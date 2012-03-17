@@ -23,6 +23,8 @@ projects[date][subdir] = "contrib"
 
 projects[diff][subdir] = "contrib"
 
+projects[environment_indicator][subdir] = "contrib"
+
 projects[features][subdir] = "contrib"
 
 projects[field_group][subdir] = "contrib"
