@@ -37,6 +37,8 @@ projects[link][subdir] = "contrib"
 
 projects[omega_tools][subdir] = "contrib"
 
+projects[panels][subdir] = "contrib"
+
 projects[pathauto][subdir] = "contrib"
 
 projects[strongarm][subdir] = "contrib"
