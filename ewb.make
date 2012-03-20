@@ -17,6 +17,8 @@ libraries[colorbox][directory_name] = "colorbox"
 libraries[colorbox][type] = "library"
 
 ; Modules
+projects[advanced_help][subdir] = "contrib"
+
 projects[context][subdir] = "contrib"
 
 projects[date][subdir] = "contrib"
@@ -68,4 +70,8 @@ libraries[ckeditor][download][type] = "get"
 libraries[ckeditor][download][url] = "http://download.cksource.com/CKEditor/CKEditor/CKEditor%203.6.2/ckeditor_3.6.2.tar.gz"
 libraries[ckeditor][directory_name] = "ckeditor"
 libraries[ckeditor][type] = "library"
+
+libraries[colorbox][download][type] = "get"
+libraries[colorbox][download][url] = "http://colorpowered.com/colorbox/colorbox.zip"
+libraries[colorbox][directory_name] = "colorbox"
 
