@@ -19,6 +19,8 @@ libraries[colorbox][type] = "library"
 ; Modules
 projects[advanced_help][subdir] = "contrib"
 
+projects[colorbox][subdir] = "contrib"
+
 projects[context][subdir] = "contrib"
 
 projects[date][subdir] = "contrib"
