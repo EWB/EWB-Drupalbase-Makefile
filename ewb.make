@@ -3,25 +3,20 @@ core = 7.x
 
 api = 2
 projects[] = "drupal"
-; Modules
-projects[backup_migrate][subdir] = "contrib"
 
-projects[ctools][subdir] = "contrib"
-
-projects[calendar][subdir] = "contrib"
-
-; Libraries
-libraries[colorbox][download][type] = "get"
-libraries[colorbox][download][url] = "http://jacklmoore.com/colorbox/colorbox.zip"
-libraries[colorbox][directory_name] = "colorbox"
-libraries[colorbox][type] = "library"
 
 ; Modules
 projects[advanced_help][subdir] = "contrib"
 
+projects[backup_migrate][subdir] = "contrib"
+
+projects[calendar][subdir] = "contrib"
+
 projects[colorbox][subdir] = "contrib"
 
 projects[context][subdir] = "contrib"
+
+projects[ctools][subdir] = "contrib"
 
 projects[date][subdir] = "contrib"
 
@@ -60,8 +55,6 @@ projects[xmlsitemap][subdir] = "contrib"
 
 
 
-
-
 ; Themes
 projects[] = "omega"
 projects[] = "beta"
@@ -76,4 +69,6 @@ libraries[ckeditor][type] = "library"
 libraries[colorbox][download][type] = "get"
 libraries[colorbox][download][url] = "http://colorpowered.com/colorbox/colorbox.zip"
 libraries[colorbox][directory_name] = "colorbox"
+libraries[colorbox][destination] = "libraries"
+
 
