@@ -24,6 +24,8 @@ projects[diff][subdir] = "contrib"
 
 projects[entity_cache][subdir] = "contrib"
 
+projects[entity_reference][subdir] = "contrib"
+
 projects[environment_indicator][subdir] = "contrib"
 
 projects[features][subdir] = "contrib"
