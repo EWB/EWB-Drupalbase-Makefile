@@ -22,6 +22,8 @@ projects[date][subdir] = "contrib"
 
 projects[diff][subdir] = "contrib"
 
+projects[entity_cache][subdir] = "contrib"
+
 projects[environment_indicator][subdir] = "contrib"
 
 projects[features][subdir] = "contrib"
@@ -31,6 +33,8 @@ projects[field_group][subdir] = "contrib"
 projects[google_analytics][subdir] = "contrib"
 
 projects[libraries][subdir] = "contrib"
+
+projects[imagefield_crop][subdir] = "contrib"
 
 projects[link][subdir] = "contrib"
 
