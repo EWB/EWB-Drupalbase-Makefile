@@ -22,9 +22,9 @@ projects[date][subdir] = "contrib"
 
 projects[diff][subdir] = "contrib"
 
-projects[entity_cache][subdir] = "contrib"
+projects[entitycache][subdir] = "contrib"
 
-projects[entity_reference][subdir] = "contrib"
+projects[entityreference][subdir] = "contrib"
 
 projects[environment_indicator][subdir] = "contrib"
 
