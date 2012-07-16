@@ -26,6 +26,8 @@ projects[devel][subdir] = "contrib"
 
 projects[diff][subdir] = "contrib"
 
+projects[entity][subdir] = "contrib"
+
 projects[entitycache][subdir] = "contrib"
 
 projects[entityreference][subdir] = "contrib"
@@ -51,6 +53,8 @@ projects[omega_tools][subdir] = "contrib"
 projects[panels][subdir] = "contrib"
 
 projects[pathauto][subdir] = "contrib"
+
+projects[rules][subdir] = "contrib"
 
 projects[strongarm][subdir] = "contrib"
 
