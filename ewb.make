@@ -10,6 +10,8 @@ projects[advanced_help][subdir] = "contrib"
 
 projects[backup_migrate][subdir] = "contrib"
 
+projects[boxes][subdir] = "contrib"
+
 projects[calendar][subdir] = "contrib"
 
 projects[colorbox][subdir] = "contrib"
@@ -19,6 +21,8 @@ projects[context][subdir] = "contrib"
 projects[ctools][subdir] = "contrib"
 
 projects[date][subdir] = "contrib"
+
+projects[devel][subdir] = "contrib"
 
 projects[diff][subdir] = "contrib"
 
