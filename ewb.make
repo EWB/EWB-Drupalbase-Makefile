@@ -30,6 +30,8 @@ projects[environment_indicator][subdir] = "contrib"
 
 projects[features][subdir] = "contrib"
 
+projects[feeds][subdir] = "contrib"
+
 projects[field_group][subdir] = "contrib"
 
 projects[google_analytics][subdir] = "contrib"
