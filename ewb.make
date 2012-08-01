@@ -56,6 +56,8 @@ projects[panels][subdir] = "contrib"
 
 projects[pathauto][subdir] = "contrib"
 
+projects[phone][subdir] = "contrib"
+
 projects[rules][subdir] = "contrib"
 
 projects[strongarm][subdir] = "contrib"
