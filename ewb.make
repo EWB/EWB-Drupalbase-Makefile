@@ -98,7 +98,7 @@ libraries[colorbox][directory_name] = "colorbox"
 libraries[colorbox][destination] = "libraries"
 
 libraries[flexslider][download][type] = "get"
-libraries[flexslider][download][url] = "https://github.com/woothemes/FlexSlider/zipball/master"
+libraries[flexslider][download][url] = "https://github.com/downloads/woothemes/FlexSlider/FlexSlider-1.8.zip"
 libraries[flexslider][directory_name] = "flexslider"
 libraries[flexslider][type] = "library"
 
