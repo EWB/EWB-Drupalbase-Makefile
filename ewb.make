@@ -77,7 +77,6 @@ projects[views][subdir] = "contrib"
 projects[views_slideshow][subdir] = "contrib"
 
 projects[webform][subdir] = "contrib"
-projects[webform][version] = "7.x-4.0-alpha4"
 
 projects[wysiwyg][subdir] = "contrib"
 
