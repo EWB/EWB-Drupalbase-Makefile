@@ -48,6 +48,8 @@ projects[field_redirection][subdir] = "contrib"
 
 projects[flexslider][subdir] = "contrib"
 
+projects[form_builder][subdir] = "contrib"
+
 projects[google_analytics][subdir] = "contrib"
 
 projects[libraries][subdir] = "contrib"
@@ -75,6 +77,7 @@ projects[views][subdir] = "contrib"
 projects[views_slideshow][subdir] = "contrib"
 
 projects[webform][subdir] = "contrib"
+projects[webform][version] = "7.x-4.0-alpha4"
 
 projects[wysiwyg][subdir] = "contrib"
 
