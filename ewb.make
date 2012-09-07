@@ -60,6 +60,8 @@ projects[link][subdir] = "contrib"
 
 projects[omega_tools][subdir] = "contrib"
 
+projects[options_element][subdir] = "contrib"
+
 projects[panels][subdir] = "contrib"
 
 projects[pathauto][subdir] = "contrib"
