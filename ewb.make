@@ -46,20 +46,20 @@ projects[field_group][subdir] = "contrib"
 
 projects[field_redirection][subdir] = "contrib"
 
-projects[flexslider][subdir] = "contrib"
-
+/*projects[flexslider][subdir] = "contrib"
+*/
 projects[form_builder][subdir] = "contrib"
 
 projects[google_analytics][subdir] = "contrib"
 
 projects[libraries][subdir] = "contrib"
 
-projects[imagefield_crop][subdir] = "contrib"
-
+/*projects[imagefield_crop][subdir] = "contrib"
+*/
 projects[link][subdir] = "contrib"
 
-projects[omega_tools][subdir] = "contrib"
-
+/*projects[omega_tools][subdir] = "contrib"
+*/
 projects[options_element][subdir] = "contrib"
 
 projects[panels][subdir] = "contrib"
@@ -76,8 +76,8 @@ projects[token][subdir] = "contrib"
 
 projects[views][subdir] = "contrib"
 
-projects[views_slideshow][subdir] = "contrib"
-
+/*projects[views_slideshow][subdir] = "contrib"
+*/
 projects[webform][subdir] = "contrib"
 
 projects[wysiwyg][subdir] = "contrib"
@@ -88,24 +88,24 @@ projects[xmlsitemap][subdir] = "contrib"
 
 
 ; Themes
-projects[] = "omega"
-projects[] = "beta"
+/*projects[] = "omega"
+projects[] = "beta"*/
 
 
-; Libraries
+/*; Libraries
 libraries[ckeditor][download][type] = "get"
 libraries[ckeditor][download][url] = "http://download.cksource.com/CKEditor/CKEditor/CKEditor%203.6.3/ckeditor_3.6.3.tar.gz"
 libraries[ckeditor][directory_name] = "ckeditor"
-libraries[ckeditor][type] = "library"
+libraries[ckeditor][type] = "library"*/
 
 libraries[colorbox][download][type] = "get"
 libraries[colorbox][download][url] = "http://colorpowered.com/colorbox/colorbox.zip"
 libraries[colorbox][directory_name] = "colorbox"
 libraries[colorbox][destination] = "libraries"
 
-libraries[flexslider][download][type] = "get"
+/*libraries[flexslider][download][type] = "get"
 libraries[flexslider][download][url] = "https://github.com/woothemes/FlexSlider/zipball/master"
 libraries[flexslider][directory_name] = "flexslider"
-libraries[flexslider][type] = "library"
+libraries[flexslider][type] = "library"*/
 
 
